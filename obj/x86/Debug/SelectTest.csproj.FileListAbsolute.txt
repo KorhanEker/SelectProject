@@ -1,0 +1,2 @@
+C:\Users\korha\OneDrive\Masaüstü\Source\Repos\SelectTest\obj\x86\Debug\SelectTest.csprojAssemblyReference.cache
+C:\Users\korha\OneDrive\Masaüstü\Source\Repos\SelectTest\obj\x86\Debug\SelectTest.csproj.CoreCompileInputs.cache
